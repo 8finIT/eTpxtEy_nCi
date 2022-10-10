@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Allura', cursive;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: rosybrown;
+}
+
+main{
+    width: 100%;
+    height: 90%;
+    background: firebrick;
+}
+
